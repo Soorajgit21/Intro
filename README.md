@@ -1,5 +1,8 @@
-I am a devoted student of Computer Science Engineering. I am passionate about developing an efficient web application. Throughout my academic life, I have been developing a strong base of knowledge in the domains of programming, problem-solving, and creative designing. Additionally, I keep myself up-to-date with the latest trends of technology and enhance my skills through practice.
+Responsiveness and user-friendliness in web interfaces are essential for a Frontend Developer like me, who is still fresh in this field.
 
-At present, I am engaged in a Full Stack Development course at Kompetenzen Technology where I am gaining practical knowledge in the development of front-end as well as back-end using Python. This course has further improved my knowledge in the design, development, and deployment of scalable apps.
+Skilled in:
+* HTML
+* CSS
+* JavaScript
 
-Lastly, I worked on another project titled Token Tracker, which is an hospital appointment and token tracking system that is implemented using Next.js and PostgreSQL. This project has enhanced my technical aptitude, problem-solving aptitude, and ability to design an awesome user interface for any project. Lastly, I am passionate about developing myself in my role as a full-stack software developer.
+ React Basics I enjoy building frontend projects, improving UI/UX, and learning modern web technologies through hands-on practice. Currently focusing on strengthening my React skills and building real-world frontend applications.
