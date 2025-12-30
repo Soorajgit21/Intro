@@ -1,1 +1,5 @@
-Hi hallo
+I am a devoted student of Computer Science Engineering. I am passionate about developing an efficient web application. Throughout my academic life, I have been developing a strong base of knowledge in the domains of programming, problem-solving, and creative designing. Additionally, I keep myself up-to-date with the latest trends of technology and enhance my skills through practice.
+
+At present, I am engaged in a Full Stack Development course at Kompetenzen Technology where I am gaining practical knowledge in the development of front-end as well as back-end using Python. This course has further improved my knowledge in the design, development, and deployment of scalable apps.
+
+Lastly, I worked on another project titled Token Tracker, which is an hospital appointment and token tracking system that is implemented using Next.js and PostgreSQL. This project has enhanced my technical aptitude, problem-solving aptitude, and ability to design an awesome user interface for any project. Lastly, I am passionate about developing myself in my role as a full-stack software developer.
